@@ -1,0 +1,9 @@
+{
+  "name": "shop-list",
+  "version": "1.0.0",
+  "description": "Simple travel shopping list with quantities",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
